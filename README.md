@@ -8,15 +8,16 @@ For arm64, clone the https://github.com/vssio/vss and build it.
 
 ## Install latest version
 
-For Mac & Linux
+With Shell(For Mac & Linux):
 
 ```
-curl -fsSL http://
+curl -fsSL https://raw.githubusercontent.com/vssio/vss_install/main/install.sh | sh
 ```
 
-For windows
+With PowerShell(for Windows):
 
 ```
+irm https://raw.githubusercontent.com/vssio/vss_install/main/install.ps1 | iex
 ```
 
 ## LICENSE
