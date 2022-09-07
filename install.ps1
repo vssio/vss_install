@@ -40,7 +40,8 @@ curl.exe -Lo $vssZip $DownloadUrl
 
 tar.exe xf $vssZip -C $BinDir
 
-cp.exe "${BinDir}/vss_${Target}/vss.exe" $BinDir
+# cp is an alias of Copy-Item 
+cp "${BinDir}/vss_${Target}/vss.exe" $BinDir
 
 Remove-Item $vssZip
 Remove-Item "${BinDir}/vss_${Target}" -Recurse
