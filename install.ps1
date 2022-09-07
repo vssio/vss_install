@@ -1,7 +1,7 @@
 #!/usr/bin/env pwsh
 # Copyright 2022 TSURUTA Takumi. All rights reserved. MIT license.
 # This script uses most of the script from `vss_install` with a few tweaks for vss.
-# The original project is here: https://github.com/vssio/vss_install
+# The original project is here: https://github.com/denoland/deno_install
 # 
 # Copyright 2019 the Deno authors. All rights reserved. MIT license.
 # TODO(everyone): Keep this script simple and easily auditable.
