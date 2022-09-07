@@ -21,3 +21,5 @@ irm https://raw.githubusercontent.com/vssio/vss_install/main/install.ps1 | iex
 ```
 
 ## LICENSE
+
+MIT (see the `LICENSE` file in this repository for more details.)
