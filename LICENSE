@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This script uses most of the script from `vss_install` with a few tweaks for vss.
-The original project is here: https://github.com/vssio/vss_install
+This script uses most of the script from `deno_install` with a few tweaks for vss.
+The original project is here: https://github.com/denoland/deno_install
 
 Copyright 2019 the Deno authors. All rights reserved. MIT license.
